@@ -12,6 +12,7 @@
 		34303FC9203B7D17007AAAEB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34303FC7203B7D17007AAAEB /* Main.storyboard */; };
 		34303FCB203B7D17007AAAEB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34303FCA203B7D17007AAAEB /* Assets.xcassets */; };
 		34303FCE203B7D17007AAAEB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34303FCC203B7D17007AAAEB /* LaunchScreen.storyboard */; };
+		5D0F196C203CE5FD001FCEDE /* AcaoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D0F196B203CE5FD001FCEDE /* AcaoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		34303FCA203B7D17007AAAEB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		34303FCD203B7D17007AAAEB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		34303FCF203B7D17007AAAEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D0F196B203CE5FD001FCEDE /* AcaoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AcaoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				34303FC3203B7D17007AAAEB /* AppDelegate.swift */,
 				34303FC5203B7D17007AAAEB /* ViewController.swift */,
+				5D0F196B203CE5FD001FCEDE /* AcaoViewController.swift */,
 				34303FC7203B7D17007AAAEB /* Main.storyboard */,
 				34303FCA203B7D17007AAAEB /* Assets.xcassets */,
 				34303FCC203B7D17007AAAEB /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				34303FC6203B7D17007AAAEB /* ViewController.swift in Sources */,
+				5D0F196C203CE5FD001FCEDE /* AcaoViewController.swift in Sources */,
 				34303FC4203B7D17007AAAEB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
